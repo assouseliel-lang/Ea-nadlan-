@@ -1,0 +1,22 @@
+{
+  "id": "property-2",
+  "title": "דופלקס ברח׳ האורן 4",
+  "price": 1190000,
+  "old_price": 0,
+  "location": "עלי · בנימין",
+  "badge": "במצב שמור",
+  "details": [
+    "5 חדרים",
+    "100 מ״ר בנוי",
+    "2 קומות"
+  ],
+  "images": [
+    "/images/photo-006.jpg",
+    "/images/photo-007.jpg",
+    "/images/photo-008.jpg",
+    "/images/photo-009.jpg",
+    "/images/photo-010.jpg"
+  ],
+  "status": "פעיל",
+  "description": ""
+}

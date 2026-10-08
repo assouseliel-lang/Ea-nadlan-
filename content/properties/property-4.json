@@ -1,0 +1,23 @@
+{
+  "id": "property-4",
+  "title": "בית פרטי ברח׳ האגוז 43",
+  "price": 2683000,
+  "old_price": 0,
+  "location": "עלי · בנימין",
+  "badge": "בית פרטי",
+  "details": [
+    "5 חדרים",
+    "140 מ״ר בנוי",
+    "580 מ״ר מגרש",
+    "2 חניות"
+  ],
+  "images": [
+    "/images/photo-016.jpg",
+    "/images/photo-017.jpg",
+    "/images/photo-018.jpg",
+    "/images/photo-019.jpg",
+    "/images/photo-020.jpg"
+  ],
+  "status": "פעיל",
+  "description": ""
+}

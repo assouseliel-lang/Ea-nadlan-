@@ -1,0 +1,131 @@
+[
+  {
+    "id": "property-1",
+    "title": "דירה ברח׳ החורש 4",
+    "price": 1580000,
+    "old_price": 0,
+    "location": "עלי · בנימין",
+    "badge": "חדש (גרו בנכס)",
+    "details": [
+      "4 חדרים",
+      "110 מ״ר",
+      "ממ״ד",
+      "3 מרפסות"
+    ],
+    "images": [
+      "/images/photo-003.jpg",
+      "/images/photo-004.jpg",
+      "/images/photo-005.jpg"
+    ],
+    "status": "פעיל",
+    "description": ""
+  },
+  {
+    "id": "property-2",
+    "title": "דופלקס ברח׳ האורן 4",
+    "price": 1190000,
+    "old_price": 0,
+    "location": "עלי · בנימין",
+    "badge": "במצב שמור",
+    "details": [
+      "5 חדרים",
+      "100 מ״ר בנוי",
+      "2 קומות"
+    ],
+    "images": [
+      "/images/photo-006.jpg",
+      "/images/photo-007.jpg",
+      "/images/photo-008.jpg",
+      "/images/photo-009.jpg",
+      "/images/photo-010.jpg"
+    ],
+    "status": "פעיל",
+    "description": ""
+  },
+  {
+    "id": "property-3",
+    "title": "דו־משפחתי ברח׳ הצבעוני 15",
+    "price": 2069000,
+    "old_price": 0,
+    "location": "עלי · בנימין",
+    "badge": "במצב שמור",
+    "details": [
+      "8 חדרים",
+      "180 מ״ר בנוי",
+      "340 מ״ר מגרש"
+    ],
+    "images": [
+      "/images/photo-011.jpg",
+      "/images/photo-012.jpg",
+      "/images/photo-013.jpg",
+      "/images/photo-014.jpg",
+      "/images/photo-015.jpg"
+    ],
+    "status": "פעיל",
+    "description": ""
+  },
+  {
+    "id": "property-4",
+    "title": "בית פרטי ברח׳ האגוז 43",
+    "price": 2683000,
+    "old_price": 0,
+    "location": "עלי · בנימין",
+    "badge": "בית פרטי",
+    "details": [
+      "5 חדרים",
+      "140 מ״ר בנוי",
+      "580 מ״ר מגרש",
+      "2 חניות"
+    ],
+    "images": [
+      "/images/photo-016.jpg",
+      "/images/photo-017.jpg",
+      "/images/photo-018.jpg",
+      "/images/photo-019.jpg",
+      "/images/photo-020.jpg"
+    ],
+    "status": "פעיל",
+    "description": ""
+  },
+  {
+    "id": "property-5",
+    "title": "דירת גן פינתית — TOP עלי",
+    "price": 2099000,
+    "old_price": 0,
+    "location": "עלי · בנימין",
+    "badge": "אחרונה בפרויקט",
+    "details": [
+      "5 חדרים",
+      "152 מ״ר בנוי",
+      "174 מ״ר גינה"
+    ],
+    "images": [
+      "/images/photo-021.jpg",
+      "/images/photo-022.jpg"
+    ],
+    "status": "פעיל",
+    "description": ""
+  },
+  {
+    "id": "property-6",
+    "title": "דו־משפחתי ברח׳ ספיר 9",
+    "price": 1450000,
+    "old_price": 0,
+    "location": "עלי · בנימין",
+    "badge": "משופץ",
+    "details": [
+      "3 חדרים",
+      "60 מ״ר בנוי",
+      "380 מ״ר מגרש",
+      "חניה"
+    ],
+    "images": [
+      "/images/photo-023.jpg",
+      "/images/photo-024.jpg",
+      "/images/photo-025.jpg",
+      "/images/photo-026.jpg"
+    ],
+    "status": "פעיל",
+    "description": ""
+  }
+]

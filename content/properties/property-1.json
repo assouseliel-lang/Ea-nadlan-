@@ -1,0 +1,21 @@
+{
+  "id": "property-1",
+  "title": "דירה ברח׳ החורש 4",
+  "price": 1580000,
+  "old_price": 0,
+  "location": "עלי · בנימין",
+  "badge": "חדש (גרו בנכס)",
+  "details": [
+    "4 חדרים",
+    "110 מ״ר",
+    "ממ״ד",
+    "3 מרפסות"
+  ],
+  "images": [
+    "/images/photo-003.jpg",
+    "/images/photo-004.jpg",
+    "/images/photo-005.jpg"
+  ],
+  "status": "פעיל",
+  "description": ""
+}

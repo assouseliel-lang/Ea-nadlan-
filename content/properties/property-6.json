@@ -1,0 +1,22 @@
+{
+  "id": "property-6",
+  "title": "דו־משפחתי ברח׳ ספיר 9",
+  "price": 1450000,
+  "old_price": 0,
+  "location": "עלי · בנימין",
+  "badge": "משופץ",
+  "details": [
+    "3 חדרים",
+    "60 מ״ר בנוי",
+    "380 מ״ר מגרש",
+    "חניה"
+  ],
+  "images": [
+    "/images/photo-023.jpg",
+    "/images/photo-024.jpg",
+    "/images/photo-025.jpg",
+    "/images/photo-026.jpg"
+  ],
+  "status": "פעיל",
+  "description": ""
+}
